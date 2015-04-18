@@ -1,0 +1,21 @@
+body
+{
+	font-size: 18px;
+	font-family: 'PT Sans Narrow';
+}
+h2{
+	text-transform: uppercase;
+	font-weight: 700px;
+}
+nav a{
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 50px;
+}
+
+p{
+	max-width: 920px;
+}
+span{
+	padding-right: 50px;
+}
